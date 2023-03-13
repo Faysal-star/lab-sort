@@ -1,0 +1,1 @@
+{"name":"Local: B1-BubbleSort","url":"c:\\Users\\User\\Desktop\\lab\\2-1\\sort\\B1-BubbleSort.cpp","tests":[{"id":1678728622549,"input":"5\n12 4 78 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\lab\\2-1\\sort\\B1-BubbleSort.cpp","group":"local","local":true}
